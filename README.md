@@ -1,5 +1,19 @@
 # FinSight Analytics Platform
 
+## Project Roadmap
+
+### Completed Modules
+
+- ✅ Module 1: Credit Risk Prediction
+- ✅ Module 2: Portfolio Analytics
+- ✅ Module 3: Algorithmic Trading Strategy Backtesting
+
+### Upcoming Modules
+
+- ⬜ Module 4: Fraud Detection System
+- ⬜ Module 5: Financial Forecasting & Time Series Analysis
+- ⬜ Module 6: Stock Valuation Engine (DCF & Multiples)
+
 
 ## Module 1: Credit Risk Prediction
 
