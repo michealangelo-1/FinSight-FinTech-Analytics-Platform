@@ -181,3 +181,12 @@ Built a machine learning system to identify fraudulent credit card transactions 
 - Machine Learning
 - Classification Modeling
 - Financial Risk Management
+
+
+### Dataset
+
+The Credit Card Fraud Detection dataset is not included in this repository due to GitHub file size limitations.
+
+Download the dataset separately and place it in:
+
+data/creditcard.csv
