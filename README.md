@@ -7,10 +7,10 @@
 - ✅ Module 1: Credit Risk Prediction
 - ✅ Module 2: Portfolio Analytics
 - ✅ Module 3: Algorithmic Trading Strategy Backtesting
+- ✅ Module 4: Fraud Detection System
 
 ### Upcoming Modules
 
-- ⬜ Module 4: Fraud Detection System
 - ⬜ Module 5: Financial Forecasting & Time Series Analysis
 - ⬜ Module 6: Stock Valuation Engine (DCF & Multiples)
 
@@ -18,7 +18,7 @@
 ## Module 1: Credit Risk Prediction
 
 
-## Project Overview
+### Overview
 
 This project predicts loan approval status using machine learning.
 
@@ -85,6 +85,8 @@ Built a portfolio analytics system using Python and Yahoo Finance data.
 * Amazon (AMZN)
 * Tesla (TSLA)
 
+
+
 ## Module 3: Algorithmic Trading Strategy Backtesting
 
 ### Overview
@@ -150,3 +152,32 @@ Built an algorithmic trading strategy using historical stock market data and mov
 * Risk-adjusted performance evaluation
 * Financial data visualization
 * Quantitative finance fundamentals
+
+
+
+## Module 4: Fraud Detection System
+
+### Overview
+
+Built a machine learning system to identify fraudulent credit card transactions using historical transaction data.
+
+### Techniques Used
+
+- Exploratory Data Analysis
+- Class Imbalance Analysis
+- Random Forest Classification
+- ROC Curve Evaluation
+- Feature Importance Analysis
+
+### Outputs
+
+- Confusion Matrix
+- ROC Curve
+- Feature Importance Visualization
+
+### Skills Demonstrated
+
+- Fraud Analytics
+- Machine Learning
+- Classification Modeling
+- Financial Risk Management
