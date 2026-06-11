@@ -190,3 +190,68 @@ The Credit Card Fraud Detection dataset is not included in this repository due t
 Download the dataset separately and place it in:
 
 data/creditcard.csv
+
+
+
+# Module 5: Financial Forecasting & Time Series Analysis
+
+### Overview
+
+This module focuses on forecasting stock prices using historical market data and time series modeling techniques.
+
+## Objectives
+
+- Download historical stock data using Yahoo Finance
+- Perform exploratory time series analysis
+- Generate moving average indicators
+- Build an ARIMA forecasting model
+- Evaluate forecasting performance using MAE and RMSE
+- Visualize actual vs predicted stock prices
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Statsmodels
+- yFinance
+- Scikit-learn
+
+## Workflow
+
+1. Data Collection
+2. Data Preprocessing
+3. Exploratory Analysis
+4. Feature Engineering
+5. ARIMA Modeling
+6. Forecast Evaluation
+7. Visualization
+
+## Results
+
+Model Performance:
+
+- MAE: 25.14
+- RMSE: 29.64
+
+## Generated Outputs
+
+### Charts
+
+- Closing Price Trend
+- Moving Averages
+- Actual vs Predicted Forecast
+
+### Forecast Files
+
+- forecast_metrics.csv
+- forecast_results.csv
+
+## Skills Demonstrated
+
+- Time Series Analysis
+- Financial Forecasting
+- Statistical Modeling
+- Data Visualization
+- Performance Evaluation
