@@ -9,11 +9,7 @@
 - ✅ Module 3: Algorithmic Trading Strategy Backtesting
 - ✅ Module 4: Fraud Detection System
 - ✅ Module 5: Financial Forecasting & Time Series Analysis
-
-### Upcoming Modules
-
-
-- ⬜ Module 6: Stock Valuation Engine (DCF & Multiples)
+- ✅ Module 6: Stock Valuation Engine (DCF & Multiples)
 
 
 ## Module 1: Credit Risk Prediction
@@ -256,3 +252,68 @@ Model Performance:
 - Statistical Modeling
 - Data Visualization
 - Performance Evaluation
+
+# Module 6: Stock Valuation Engine (DCF & Multiples)
+
+## Overview
+
+This module focuses on valuing publicly traded companies using Discounted Cash Flow (DCF) analysis and comparable company valuation techniques.
+
+## Objectives
+
+- Retrieve stock market data using Yahoo Finance
+- Calculate intrinsic value using a DCF model
+- Estimate company value using P/E multiples
+- Perform valuation sensitivity analysis
+- Compare valuation metrics across peer companies
+- Export valuation results to CSV files
+- Visualize valuation scenarios using a heatmap
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- yFinance
+
+## Workflow
+
+1. Stock Data Collection
+2. Financial Metrics Retrieval
+3. DCF Valuation Modeling
+4. Multiples Valuation
+5. Sensitivity Analysis
+6. Peer Comparison
+7. Results Visualization
+8. Export Analysis Outputs
+
+## Results
+
+Valuation Outputs:
+
+- DCF Enterprise Value: $1.82 Trillion
+- P/E Valuation: $2.50 Trillion
+
+## Generated Outputs
+
+### Valuation Files
+
+- valuation_summary.csv
+- peer_comparison.csv
+- sensitivity_analysis.csv
+
+### Visualizations
+
+- valuation_sensitivity_heatmap.png
+
+## Skills Demonstrated
+
+- Financial Modeling
+- Equity Valuation
+- Discounted Cash Flow (DCF) Analysis
+- Relative Valuation
+- Sensitivity Analysis
+- Financial Data Analysis
+- Data Visualization
+- Python Programming
